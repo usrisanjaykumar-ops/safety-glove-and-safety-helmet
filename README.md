@@ -55,6 +55,13 @@ Helps bike riders, factory workers, and people in risky environments.
 3. Connect sensors to pins as listed above.  
 4. Upload code → Done.  
 
+
+## Citation
+
+If you use this project, please cite it as:
+
+Kumar, Sri Sanjay. (2025). Low-Cost Wearable Safety Devices: Smart Glove and Smart Helmet. Zenodo. [https://doi.org/10.5281/zenodo.17254484]
+
 ## Notes
 - Vibrator turns on when gas value is high or loud sound is detected.  
 - OLED shows all alerts clearly (no animation).  
